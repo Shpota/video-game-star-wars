@@ -36,7 +36,10 @@ Other systems were not verified, but most likely the game will work
 on Linux and Windows as well.
 
 ## Gameplay
-[![solarized dualmode](https://github.com/Shpota/video-game-star-wars/samples/gameplay.png)](#features)
+
+![alt text][gameplay]
+
+[gameplay]: https://github.com/Shpota/video-game-star-wars/blob/master/samples/gameplay.png "Gameplay"
 
 ## What could be improved.
 1. Thread safe. The access to the game state should be done in synchronized way since the view and the 
