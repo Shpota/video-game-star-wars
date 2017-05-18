@@ -130,7 +130,6 @@ public class GameAreaView extends Canvas implements View {
         bufferStrategy.show();
     }
 
-
     private void renderButtons(Graphics2D graphics) {
         Font font = new Font("arial", Font.BOLD, 50);
         graphics.setFont(font);
@@ -150,7 +149,6 @@ public class GameAreaView extends Canvas implements View {
         graphics.draw(HELP_BUTTON);
         graphics.draw(QUITE_BUTTON);
     }
-
 
     private void renderScore(Graphics2D graphics, long score) {
         Font buttonFont = new Font("arial", Font.BOLD, 20);
