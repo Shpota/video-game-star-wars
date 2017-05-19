@@ -35,13 +35,7 @@ The game was tested only on Mac OS X.
 Other systems were not verified, but most likely the game will work 
 on Linux and Windows as well.
 
-## Gameplay
-
-![alt text][gameplay]
-
-[gameplay]: https://github.com/Shpota/video-game-star-wars/blob/master/samples/gameplay.png "Gameplay"
-
-## What could be improved.
+## What needs to be improved.
 1. Thread safe. The access to the game state should be done in synchronized way since the view and the 
 game logic access the game state from different threads.
 
@@ -54,3 +48,11 @@ screen. Ideally it has to be done in the same way like it is done for object mov
 The model just updates its state every 20 milliseconds.
 
 5. Test coverage.
+
+6. Chnage appernce of enemies after loading the game - the screen should be empty after startup.
+
+## Gameplay
+
+![alt text][gameplay]
+
+[gameplay]: https://github.com/Shpota/video-game-star-wars/blob/master/samples/gameplay.png "Gameplay"
