@@ -58,4 +58,4 @@ The model just updates its state every 20 milliseconds.
 [gameplay]: https://github.com/Shpota/video-game-star-wars/blob/master/samples/gameplay.png "Gameplay"
 
 
-Icons of enemy and player were taken from opengameart.org. All rights reserved by their respective owners.
+Icons of enemy and player were taken from [opengameart.org](https://opengameart.org/). All rights reserved by their respective owners.
