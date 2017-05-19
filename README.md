@@ -15,7 +15,7 @@ Unix:
 ```
 Windows:
 ```
-.\gradlew build
+.\gradlew.bat build
 ```
 
 ## How to run.
@@ -25,7 +25,7 @@ Unix:
 ```
 Windows:
 ```
-.\gradlew run
+.\gradlew.bat run
 ```
 Alternatively the game can be started from the `jar` distribution.
 ```
