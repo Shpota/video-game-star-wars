@@ -8,7 +8,7 @@ This was the technical task which was a part of interview process for one german
 Unfortunettly I din't get an offer from the company, but not because of the code quality but 
 because I implemented something they didn't ask. 
 
-I hope that this code will be useful for someone else, that is why it stays here.
+However I hope that this code will be useful for someone else, that is why it stays here.
 
 ## Environment Setup.
 The application requires JDK 1.8 or above.
