@@ -1,7 +1,14 @@
 Star Wars
 =========
 
-Simple 2D video game written with Java
+Simple 2D video game written with Java. The game is implemented using only
+standart lib.
+
+This was the technical task which was a part of interview process for one german company. 
+Unfortunettly I din't get an offer from the company, but not because of the code quality but 
+because I implemented something they didn't ask. 
+
+I hope that this code will be useful for someone else, that is why it stays here.
 
 ## Environment Setup.
 The application requires JDK 1.8 or above.
